@@ -1,0 +1,4 @@
+I touched this file in git to create it. 
+
+I was able to open in git using the command "code ." to bring it up automagically
+in VS Code. 
